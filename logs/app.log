@@ -1,0 +1,72 @@
+[2016-09-22 11:58:59.631] [INFO] startup - Listening on port 3000
+[2016-09-22 11:59:17.170] [INFO] app - GET / - 444
+[2016-09-22 11:59:17.174] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 191 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 11:59:17.232] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 11:59:17.323] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 11:59:17.324] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 11:59:17.398] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 11:59:17.399] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 11:59:17.801] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 11:59:17.802] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 11:59:17.980] [INFO] app - GET /favicon.ico - 0
+[2016-09-22 11:59:17.981] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 11:59:38.227] [INFO] app - GET /flackicon.png - 1
+[2016-09-22 11:59:38.228] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:00:58.656] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:00:58.657] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:09.983] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:09.985] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:11.265] [INFO] app - GET / - 54
+[2016-09-22 12:07:11.266] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 191 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:11.269] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:11.271] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:11.339] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:11.381] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:11.382] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:11.499] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:11.500] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:11.710] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:11.710] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:17.480] [INFO] app - GET / - 41
+[2016-09-22 12:07:17.481] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 191 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:17.482] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:17.483] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:17.542] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:17.581] [INFO] app - GET /flackicon.png - 1
+[2016-09-22 12:07:17.582] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:17.683] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:17.684] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:39.995] [INFO] app - GET / - 24
+[2016-09-22 12:07:39.996] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 191 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:40.000] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:40.002] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:40.054] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:40.108] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:07:40.109] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:07:40.265] [INFO] app - GET /flackicon.png - 1
+[2016-09-22 12:07:40.267] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:09:31.516] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:09:31.517] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:09:32.417] [INFO] app - GET / - 45
+[2016-09-22 12:09:32.417] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 191 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:09:32.419] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:09:32.420] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:09:32.495] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:09:32.531] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:09:32.532] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:09:32.705] [INFO] app - GET /flackicon.png - 1
+[2016-09-22 12:09:32.705] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:09:32.943] [INFO] app - GET /flackicon.png - 0
+[2016-09-22 12:09:32.944] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:10:27.698] [INFO] app - GET /flackicon.png - 1
+[2016-09-22 12:10:27.698] [ERROR] http - ::1 - - "GET /flackicon.png HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:10:38.981] [INFO] startup - Listening on port 1337
+[2016-09-22 12:10:42.831] [INFO] app - GET /favicon.ico - 0
+[2016-09-22 12:10:42.835] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:10:42.852] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 18 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:10:42.885] [INFO] app - GET /favicon.ico - 0
+[2016-09-22 12:10:42.886] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:10:43.023] [INFO] app - GET /favicon.ico - 0
+[2016-09-22 12:10:43.024] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
+[2016-09-22 12:10:43.289] [INFO] app - GET /favicon.ico - 0
+[2016-09-22 12:10:43.292] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.122 Safari/537.36 Vivaldi/1.4.589.29"
